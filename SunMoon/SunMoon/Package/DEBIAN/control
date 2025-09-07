@@ -1,0 +1,17 @@
+Package: com.tainze.SunMoon
+Name: SunMoon
+Version: 0.3-1
+Description: Incredible animated GIF UISwitch! Transforms all iOS switches with dynamic GIF animations inside the thumb. Features different GIF animations for ON/OFF states, smooth transitions, and stunning visual effects. The thumb displays live animated GIFs that change based on switch state.
+Section: Tweaks
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts:
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Author: MacXK
+dev:
+Homepage:
+Depiction:
+Maintainer: MacXK
+Icon:
+
