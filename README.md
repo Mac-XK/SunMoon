@@ -34,7 +34,7 @@ SunMoon 是一个 iOS 越狱插件，将系统中所有的 UISwitch 开关替换
 ### 🔨 编译构建
 
 ```bash
-git clone https://github.com/yourusername/SunMoon.git
+git clone https://github.com/Mac-XK/SunMoon.git
 cd SunMoon
 xcodebuild -project SunMoon.xcodeproj -scheme SunMoon -configuration Debug build
 ```
@@ -82,7 +82,7 @@ SunMoon is an iOS jailbreak tweak that replaces all UISwitch controls with dynam
 ###  Building
 
 ```bash
-git clone https://github.com/yourusername/SunMoon.git
+git clone https://github.com/Mac-XK/SunMoon.git
 cd SunMoon
 xcodebuild -project SunMoon.xcodeproj -scheme SunMoon -configuration Debug build
 ```
